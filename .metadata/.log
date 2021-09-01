@@ -1653,3 +1653,6 @@ org.eclipse.core.runtime.CoreException: Cannot determine URI for '/ADS131E0X/Cor
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
 !SUBENTRY 2 org.eclipse.core.filebuffers 4 0 2021-09-01 20:50:20.767
 !MESSAGE Cannot determine URI for '/ADS131E0X/Core/Inc/MY_FLASH.h'.
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-09-01 20:53:23.180
+!MESSAGE Indexed 'GPIO' (21 sources, 81 headers) in 2.22 sec: 4,248 declarations; 17,696 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0091%)
