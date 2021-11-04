@@ -1,0 +1,10 @@
+20:44:13 **** Incremental Build of configuration Release for project GPIO_INT ****
+make -j all 
+arm-none-eabi-size   GPIO_INT.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4160	     20	   1580	   5760	   1680	GPIO_INT.elf
+Finished building: default.size.stdout
+ 
+
+20:44:14 Build Finished. 0 errors, 0 warnings. (took 960ms)
+

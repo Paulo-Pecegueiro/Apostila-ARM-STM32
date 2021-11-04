@@ -24,4 +24,6 @@
 			<item value="org.eclipse.ui.ide.transfer.keys"/>
 		</list>
 	</section>
+	<section name="NewWizardAction">
+	</section>
 </section>

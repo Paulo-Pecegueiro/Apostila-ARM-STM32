@@ -2,7 +2,7 @@ LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
 activeLaunchTarget=null\:---
-configDescList=
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:GPIO_INT Release,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:GPIO_INT Debug
 eclipse.preferences.version=1
 org.eclipse.cdt.debug.core.coreBuildDescriptorType\:Hello\ World/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADS1256\ Debug/activeLaunchMode=debug
@@ -21,6 +21,8 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:GPIO\ Debug\ (1)/activeLaunchMo
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:GPIO\ Debug\ (1)/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:GPIO\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:GPIO\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:GPIO_INT\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:GPIO_INT\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:H_Bridge\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:H_Bridge\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:H_Bridge\ Release/activeLaunchMode=run
@@ -66,6 +68,9 @@ org.eclipse.launchbar.core.descriptorType.default\:DAQ\ Debug/activeLaunchMode=d
 org.eclipse.launchbar.core.descriptorType.default\:DAQ\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.launchbar.core.descriptorType.default\:GPIO\ Debug/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:GPIO\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:GPIO_INT\ Debug/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:GPIO_INT\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:GPIO_INT\ Release/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.launchbar.core.descriptorType.default\:H_Bridge\ Debug/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:H_Bridge\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.launchbar.core.descriptorType.default\:Hello\ Word\ f051K8T6\ Debug\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
