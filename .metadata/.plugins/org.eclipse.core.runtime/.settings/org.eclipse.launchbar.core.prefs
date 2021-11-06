@@ -2,7 +2,7 @@ LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
 activeLaunchTarget=null\:---
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:GPIO_INT Release,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:GPIO_INT Debug
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:ADC Debug
 eclipse.preferences.version=1
 org.eclipse.cdt.debug.core.coreBuildDescriptorType\:Hello\ World/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADS1256\ Debug/activeLaunchMode=debug
@@ -53,6 +53,8 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Virtual_ComPort\ Debug/activeLa
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:W25QXX_USB_MSC\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:W25QXX_USB_MSC\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:W25QXX_USB_MSC\ Release/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:ADC\ Debug/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:ADC\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
 org.eclipse.launchbar.core.descriptorType.default\:ADS131E0X\ Debug/activeLaunchMode=debug
 org.eclipse.launchbar.core.descriptorType.default\:ADS131E0X\ Release/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:ADS131E0X\ Release/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

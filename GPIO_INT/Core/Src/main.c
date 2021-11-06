@@ -166,7 +166,7 @@ void SystemClock_Config(void)
   }
 }
 
-/* USER CODE BEGIN 4 */
+/* USER COgitE BEGIN 4 */
 /**
   * @brief  EXTI line detection callbacks.
   * @param  GPIO_Pin Specifies the pins connected EXTI line
